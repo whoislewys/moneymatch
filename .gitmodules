@@ -1,0 +1,9 @@
+[submodule "moneymatch-arbiter"]
+	path = moneymatch-arbiter
+	url = https://github.com/whoislewys/moneymatch-arbiter
+[submodule "moneymatch-interface"]
+	path = moneymatch-interface
+	url = https://github.com/whoislewys/moneymatch-interface
+[submodule "moneymatch-contracts"]
+	path = moneymatch-contracts
+	url = https://github.com/whoislewys/moneymatch-contracts
